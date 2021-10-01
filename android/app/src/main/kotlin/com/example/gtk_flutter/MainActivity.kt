@@ -1,4 +1,4 @@
-package com.example.gtk_flutter
+package com.example.codelabMovil
 
 import io.flutter.embedding.android.FlutterActivity
 
