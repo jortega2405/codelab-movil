@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "213680973102",
+    "project_id": "movil-codelab",
+    "storage_bucket": "movil-codelab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213680973102:android:64a5317b78d165a1e486bf",
+        "android_client_info": {
+          "package_name": "com.example.codelabMovil"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213680973102-5te8q49ue3747krbpiv6idgaolalgrrb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnF5ms2ZTQdajLznoYvgnNzkcYMiENi_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213680973102-5te8q49ue3747krbpiv6idgaolalgrrb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "213680973102-uvdi04mv8ar11kin62c9brvh03f28nrv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.codelabMovil"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
